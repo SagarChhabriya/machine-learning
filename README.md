@@ -1,2 +1,1 @@
-# machine-learning
-This repository contains the lectures, notes, code files, blogs, and many more assets for learning ML in sequence.
+1. Supplementary ML Material: [Sem-6/01-machine-learning](https://github.com/SagarChhabriya/Sem-6/tree/main/01-machine-learning)
